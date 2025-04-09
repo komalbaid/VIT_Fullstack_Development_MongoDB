@@ -1,3 +1,16 @@
+<!-- Assignment-1 SmartBridge Full Stack
+
+Name: Komal Baid
+Registration Number: 22BCE10627
+Email: komalbaid2022@vitbhopal.ac.in 
+
+
+Q1. Create a webpage with a title, a main heading and two paragraphs.
+Q2. Add an image with a caption below it and center on the page.
+Q3. Style all paragraphs with a different font family, line height and text alignment.
+Q4. Design a styled button with padding, border, and a hover effect.
+Q5. Create a simple table with three columns and three rows, and a basic form with two input fields and a submit button. -->
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
